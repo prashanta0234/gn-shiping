@@ -1,0 +1,48 @@
+.footer-main h4 {
+  color: white;
+}
+.footer-main {
+  background-color: #141414;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.footer-main p {
+  color: #86a7a7;
+}
+.mailUs input {
+  background-color: #252525;
+  color: white;
+  border: none;
+}
+.mailUs button {
+  border: none;
+  border-radius: 5px;
+  background-color: #eb0028;
+  width: 50px;
+}
+.useFul {
+  margin-left: 5rem;
+}
+.useFulul ul li {
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.useFul ul li a {
+  text-decoration: none;
+  color: #86a7a7;
+}
+.touch {
+  color: #eb0028;
+}
+
+.footer {
+  background-color: #2f2f2f;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+.footer span {
+  color: #eb0028;
+}

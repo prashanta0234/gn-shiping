@@ -1,0 +1,15 @@
+.achivment {
+  text-align: center;
+  margin-top: 5rem;
+}
+.main-achiv {
+  background-color: #5d61f6;
+  padding: 2rem;
+  color: white;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.main-achiv-text {
+  margin: 1rem;
+}

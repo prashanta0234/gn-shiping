@@ -1,0 +1,25 @@
+.homeService {
+  margin-top: 5rem;
+}
+.homeService img {
+  width: 100%;
+}
+.homeService button {
+  border: none;
+  padding: 10px 30px;
+  border-radius: 5px;
+  background-color: #5d61f6;
+  color: white;
+}
+.homeService button:hover {
+  background-color: #e7524b;
+  color: white;
+}
+.card {
+  max-height: 700px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.servicesHeader {
+  text-align: center;
+  margin-bottom: 3rem;
+}

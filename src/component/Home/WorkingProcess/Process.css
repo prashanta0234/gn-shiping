@@ -1,0 +1,15 @@
+.process {
+  text-align: center;
+  margin: 4rem;
+}
+.steps {
+  margin-top: 5rem;
+}
+.steps img {
+  margin: 20px;
+  height: 5rem;
+  padding: 13px;
+  border: 1px solid #eb0028;
+  border-radius: 20px;
+  text-align: center;
+}

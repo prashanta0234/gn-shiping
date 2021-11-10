@@ -1,0 +1,18 @@
+.header {
+  text-align: center;
+}
+.header a {
+  text-decoration: none;
+  color: black;
+  margin: 1rem;
+  padding: 5px 15px;
+}
+.activeLink {
+  color: rgb(71, 181, 255);
+  border-bottom: 1px solid tomato;
+  border-top: 1px solid tomato;
+  font-weight: 800;
+}
+.addandsee li {
+  list-style-type: none;
+}

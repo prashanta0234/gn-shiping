@@ -1,0 +1,20 @@
+.serviceInput input {
+  width: 300px;
+  height: 50px;
+  margin: 1rem;
+}
+.serviceInput textarea {
+  width: 600px;
+}
+.serviceInput {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.serviceInput button {
+  padding: 10px 30px;
+  border: none;
+  background-color: tomato;
+  border-radius: 10px;
+  color: white;
+}

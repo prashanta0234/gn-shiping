@@ -1,0 +1,21 @@
+.shiping-header {
+  text-align: center;
+  margin: 5rem;
+}
+.shiping-details {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.shiping-details span {
+  font-weight: 400;
+}
+
+.shiping-details button {
+  border: none;
+  background-color: tomato;
+  color: white;
+  border-radius: 5px;
+  margin: 0.5rem;
+  padding: 5px 15px;
+}

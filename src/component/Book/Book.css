@@ -1,0 +1,33 @@
+.shiping-process {
+  text-align: center;
+}
+.shiping-process input {
+  margin: 1rem;
+  width: 200px;
+}
+.shipingItem button {
+  background-color: #e7524b;
+  color: white;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+.shipingItem button:hover {
+  background-color: #2f2f2f;
+  color: tomato;
+}
+.total button {
+  border: none;
+  padding: 5px 15px;
+  background-color: tomato;
+  color: white;
+  border-radius: 5px;
+}
+.total button:hover {
+  background-color: #2f2f2f;
+  color: tomato;
+}
+.total a {
+  text-decoration: none;
+  color: white;
+}
